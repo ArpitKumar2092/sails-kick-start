@@ -1,2 +1,3 @@
-# sails-kick-start
-sails with passport jwt
+# video-app-backend
+
+a [Sails](http://sailsjs.org) application
